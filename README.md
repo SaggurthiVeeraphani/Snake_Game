@@ -1,4 +1,4 @@
-# Snake_Game
+# Snake-Game
 ***Overview 
 
 *About this Project:
